@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">About Me Nanodegree</string>
+    <string name="name">Thiago Galindo</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio_text">
+        The best Instagram bios tend to have a self-description.
+        Things to consider adding: your job title(s), the company
+        you own or work for, some claims to fame, things you love,
+        and what makes you stand out.
+        \n\n
+        Queen Latifah’s Instagram bio does a great job of describing
+        her. In the first line of her bio she writes, ‘Actor/Rapper/
+        Singer/Producer.’ When people visit her fanpage, they’ll
+        learn that she’s more than just an actor and may check out
+        her other gigs to learn more about her.
+        \n\n
+        Plus, that little blue tick shows up on her page, so people
+        will immediately understand that she’s famous when visiting
+        her Instagram account. One of the Instagram bio tips Queen
+        Latifah teaches us is that you can learn a lot about a person
+        even from a short bio. </string>
+    <string name="nickname_hint">What\'s your nickname?</string>
+    <string name="done_button">Done</string>
 </resources>
